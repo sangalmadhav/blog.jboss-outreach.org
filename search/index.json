@@ -10,4 +10,5 @@
     "date"     : "{{ post.date }}"
   } {% unless forloop.last %},{% endunless %}
   {% endfor %}
-]
+] 
+     
